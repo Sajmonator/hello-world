@@ -1,4 +1,4 @@
 # hello-world
-Just hello :)
-Also Hello
-And dont forget hello :)
+
+Hello, I am Sajmonator
+I am noob
